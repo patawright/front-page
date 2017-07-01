@@ -1,0 +1,37 @@
+body{
+  background-color: #fcd054;
+  font-family: 'Zilla Slab', serif;
+}
+p{
+  color:black;
+  font-size: 12px;
+}
+h1 {
+  color:black;
+  font-size: 40px;
+  text-align: center;
+}
+img {
+  height: auto;
+  display: inline-block;
+  width: 22%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.thumbtext {
+  padding-top: 10px;
+}
+.content{
+  display: inline-block;
+  vertical-align: top;
+  width: 75%;
+  padding-left: 10px;
+  margin-top: 0px;
+}
+.width {
+  width:80%;
+  margin:auto;
+}
+#onelist {
+  color: blue;
+}
