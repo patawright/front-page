@@ -11,15 +11,9 @@ h1 {
   font-size: 40px;
   text-align: center;
 }
-img {
-  height: auto;
-  display: inline-block;
-  width: 22%;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-.thumbtext {
-  padding-top: 10px;
+.banner {
+  border-bottom: medium solid black;
+  border-top: medium solid black;
 }
 .content{
   display: inline-block;
@@ -28,8 +22,43 @@ img {
   padding-left: 10px;
   margin-top: 0px;
 }
+.main-section {
+  border-bottom: thin solid black;
+  padding-bottom: 10px;
+}
+.main-thumb {
+  height: auto;
+  display: inline-block;
+  width: 22%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.more-stories-container {
+  border-bottom: thin solid black;
+  padding-bottom: 7px;
+}
+.more-stories-container h2{
+  font-size:20px;
+  text-transform:uppercase;
+  margin: 5px;
+}
+.more-stories{
+margin-top: 3px;
+vertical-align: top;
+  width: 24%;
+display: inline-block;
+}
+.more-stories h3{
+  font-size:25px;
+  text-align:center;
+  margin:5px;
+}
+.more-stories-thumb {
+  width: 99%;
+  height: 180px;
+}
 .width {
-  width:80%;
+  width:85%;
   margin:auto;
 }
 #onelist {
